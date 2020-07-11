@@ -1,0 +1,78 @@
+{
+    "name": "pokemon-vue",
+    "description": "Um projeto Vue.js consumindo API pokemon",
+    "version": "1.0.0",
+    "private": true,
+    "license": "MIT",
+    "author": {
+        "name": "Luiz Santos",
+        "email": "luizcsbh@gmail.com",
+        "url": "https://about.me/luizcsbh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/luizcsbh/pokemon-vue.git"
+    },
+    "bugs": {
+        "url": "https://github.com/luizcsbh/pokemon-vue/issues"
+    },
+    "homepage": "",
+    "keywords": [],
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "test": "vue-cli-service test:unit",
+        "lint": "vue-cli-service lint",
+        "test:unit": "vue-cli-service test:unit"
+    },
+    "dependencies": {
+        "core-js": "^2.6.5",
+        "nes.css": "^2.1.1",
+        "vue": "^2.6.10",
+        "vue-plain-pagination": "^0.3.0",
+        "vue-router": "^3.0.6",
+        "vuex": "^3.1.0",
+        "vuex-persistedstate": "^2.5.4"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.7.0",
+        "@vue/cli-plugin-eslint": "^3.7.0",
+        "@vue/cli-plugin-unit-jest": "^3.7.0",
+        "@vue/cli-service": "^3.7.0",
+        "@vue/eslint-config-prettier": "^4.0.1",
+        "@vue/test-utils": "1.0.0-beta.29",
+        "babel-core": "7.0.0-bridge.0",
+        "babel-eslint": "^10.0.1",
+        "babel-jest": "^23.6.0",
+        "eslint": "^5.16.0",
+        "eslint-plugin-vue": "^5.0.0",
+        "jest": "^24.7.1",
+        "stylus": "^0.54.5",
+        "stylus-loader": "^3.0.1",
+        "vue-template-compiler": "^2.5.21"
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/essential",
+            "eslint:recommended",
+            "@vue/prettier"
+        ],
+        "rules": {},
+        "parserOptions": {
+            "parser": "babel-eslint"
+        }
+    },
+    "postcss": {
+        "plugins": {
+            "autoprefixer": {}
+        }
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions"
+    ]
+}
