@@ -16,7 +16,7 @@
     "bugs": {
         "url": "https://github.com/luizcsbh/pokemon-vue/issues"
     },
-    "homepage": "",
+    "homepage": "https://pokemon-vue.netlify.app/",
     "keywords": [],
     "scripts": {
         "serve": "vue-cli-service serve",
