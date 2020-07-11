@@ -1,9 +1,9 @@
+
+
+
 # pokemon-vue
-
-
-
-
-
+Um projeto feito com Vue.js
+Senha para login: mestrepokemon
 
 ## Project setup
 ```
