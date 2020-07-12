@@ -7,7 +7,7 @@
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/pokemon-vue)](https://github.com/luizcsbh/pokemon-vue/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/pokemon-vue/badge)](https://www.codefactor.io/repository/github/luizcsbh/pokemon-vue)
 [![version](https://img.shields.io/github/package-json/v/luizcsbh/pokemon-vue)](https://github.com/luizcsbh/pokemon-vue/blob/master/package.json)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/38007c20-bf06-4367-96a8-0e52f3412e6f/deploy-status)](https://app.netlify.com/sites/pokemon-vue/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/385c1e14-b004-4927-ae22-aea2bbc2acea/deploy-status)](https://app.netlify.com/sites/pokemon-vue/deploys)
 [![twwiter follow](https://img.shields.io/twitter/follow/luizcs?style=social)](https://twitter.com/luizcs)
 
 
