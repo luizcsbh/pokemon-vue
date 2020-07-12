@@ -40,3 +40,9 @@ npm run test
 ```
 npm run lint
 ```
+
+## Integrante
+
+Luiz Carlos dos Santos
+
+[Link do projeto](https://pokemon-vue.netlify.app/)
